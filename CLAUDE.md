@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to PostgreSQL databases via the `pg` gem
 
 **GitHub**: https://github.com/LegionIO/lex-postgres
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
